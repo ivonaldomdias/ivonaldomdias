@@ -1,5 +1,4 @@
-# 👋 Olá, me chamo Ivonaldo Micheluti Dias... 
-## Me chamem de Ivo é mais fácil hehe 
+# 👋 Olá, me chamo Ivonaldo Micheluti Dias, mas podem me chamar de Ivo... é mais fácil 😄
 
 <!--
 **ivonaldomdias/ivonaldomdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

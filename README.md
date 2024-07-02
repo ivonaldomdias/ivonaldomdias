@@ -15,17 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sobre Mim
+# Sobre Mim
 Sou um líder em Tecnologia da Informação com mais de 10 anos de experiência em infraestrutura e suporte. Ao longo da minha carreira, tenho garantido a disponibilidade, performance e segurança dos sistemas e redes dos clientes, liderando equipes técnicas de HelpDesk e realizando manutenções preventivas e corretivas.
 
-Certificações e Especializações
-Certificações:
-
+# Certificações e Especializações
 Linux Fundamentals pela 4Linux
 Linux Essentials pela 4Linux
 Linux System Administrator pela 4Linux
-Especializações:
 
+# Especializações:
 Infraestrutura de TI
 Administração de Sistemas Linux
 Firewall
@@ -34,7 +32,7 @@ Network Engineering
 Compromisso e Valores
 Sou um profissional ético e resiliente, comprometido com a excelência. Busco constantemente aprimorar meus conhecimentos e habilidades para enfrentar os desafios do dinâmico cenário de TI atual.
 
-Contato
+# Contato
 Sinta-se à vontade para explorar meus repositórios e projetos, e entre em contato para possíveis colaborações.
 
 LinkedIn | Email

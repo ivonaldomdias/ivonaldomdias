@@ -91,8 +91,11 @@ Atuo na interseção entre **engenharia e governança multicloud** (OCI, AWS e G
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ivonaldomdias&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivonaldomdias&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ivonaldomdias&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivonaldomdias&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ---

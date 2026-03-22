@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ivonaldo-micheluti-dias-61580470/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ivonaldo.dias@hotmail.com">
+  <a href="/cdn-cgi/l/email-protection#87eef1e8e9e6ebe3e8a9e3eee6f4c7efe8f3eae6eeeba9e4e8ea">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
 </p>
@@ -102,13 +102,55 @@ Atuo na interseção entre **engenharia e governança multicloud** (OCI, AWS e G
 
 ## 📁 Projetos em Destaque
 
-> 🚧 *Em construção — repositórios de IaC, automações e scripts de FinOps em breve.*
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| Em breve | Módulos Terraform multicloud | Terraform · AWS · GCP · OCI |
-| Em breve | Scripts de otimização de custos | Python · Bash · FinOps |
-| Em breve | Stacks de observabilidade | Datadog · Prometheus · Grafana |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 <a href="https://github.com/ivonaldomdias/finops-cloud-toolkit">finops-cloud-toolkit</a></h3>
+      <p>Toolkit de FinOps para coleta, análise e visualização de custos em ambientes multicloud. Detecta recursos ociosos (EC2 paradas, EBS soltos, instâncias com CPU &lt; 5%) e gera relatório executivo HTML + CSV consolidado.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+      </p>
+      <p><b>Resultado real:</b> base da iniciativa que reduziu <b>-23% de custos AWS</b> e <b>-10% em OCI</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/ivonaldomdias/datadog-cost-datalake">datadog-cost-datalake</a></h3>
+      <p>Pipeline de observabilidade de custos Datadog → AWS S3 → Databricks Delta Lake. Coleta métricas de Infrastructure, APM, Logs e Custos Estimados via API, armazena em Parquet particionado e gera dashboards na arquitetura Medallion (Bronze → Silver → Gold).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square"/>
+      </p>
+      <p><b>Detecta anomalias</b> automaticamente via Z-Score e calcula tendência MoM por produto</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/ivonaldomdias/cloud-security-scanner">cloud-security-scanner</a></h3>
+      <p>Scanner automatizado de segurança multicloud. Detecta Security Groups com portas críticas expostas (SSH, RDP, bancos de dados) para 0.0.0.0/0, instâncias com SOs em EOL e microsserviços com runtimes desatualizados. Gera score de risco (0–100) e relatório HTML executivo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CIS_Aligned-red?style=flat-square"/>
+        <img src="https://img.shields.io/badge/DevSecOps-2C2C2C?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
+      </p>
+      <p><b>v2.0 em roadmap:</b> IAM overpermissions, buckets públicos, CIS Benchmark completo</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚧 Próximos Repositórios</h3>
+      <p>Em desenvolvimento:</p>
+      <ul>
+        <li>Módulos Terraform multicloud reutilizáveis</li>
+        <li>Playbooks Ansible para hardening de SO</li>
+        <li>Stacks de observabilidade com Prometheus + Grafana</li>
+        <li>Pipeline de remediação automática de segurança</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -119,13 +161,11 @@ Atuo na interseção entre **engenharia e governança multicloud** (OCI, AWS e G
     <img src="https://img.shields.io/badge/LinkedIn-Ivonaldo%20Micheluti%20Dias-0A66C2?style=flat-square&logo=linkedin"/>
   </a>
   &nbsp;
-  <a href="mailto:ivonaldo.dias@hotmail.com">
+  <a href="/cdn-cgi/l/email-protection#d5bca3babbb4b9b1bafbb1bcb4a695bdbaa1b8b4bcb9fbb6bab8">
     <img src="https://img.shields.io/badge/Email-ivonaldo.dias%40hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>Obrigado pela visita! ⭐ Se algum repositório te ajudou, deixa uma estrela.</i>
-</p>
+<p align="cente

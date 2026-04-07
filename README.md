@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ivonaldo-micheluti-dias-61580470/" target="_blank">
+  <a href="https://www.linkedin.com/in/ivonaldodias/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="/cdn-cgi/l/email-protection#87eef1e8e9e6ebe3e8a9e3eee6f4c7efe8f3eae6eeeba9e4e8ea">

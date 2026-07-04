@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Estrategista de Infraestrutura Cloud e DevOps com mais de **10 anos de experiência** transformando ambientes complexos em operações ágeis, seguras e eficientes.
+Estrategista de Infraestrutura Cloud e DevOps com mais de **12 anos de experiência** transformando ambientes complexos em operações ágeis, seguras e eficientes.
 
 Atuo na interseção entre **engenharia e governança multicloud** (OCI, AWS e GCP) no Portobello Grupo, traduzindo requisitos de alta disponibilidade, resiliência e segurança em arquiteturas otimizadas. Minha abordagem combina expertise técnica em Linux e redes com **FinOps**, garantindo que a tecnologia impulsione o negócio por meio de custos previsíveis e excelência operacional.
 
@@ -28,7 +28,7 @@ Atuo na interseção entre **engenharia e governança multicloud** (OCI, AWS e G
 | Iniciativa | Resultado |
 |---|---|
 | 💰 Otimização de custos AWS | **-23%** de redução de custos |
-| 💰 Governança OCI | **-10%** de economia recorrente mensal |
+| 💰 Governança OCI | **-28%** de economia recorrente mensal |
 | ⚙️ Automação via IaC (Terraform) | **+50%** de redução no Time-to-Market |
 | 📊 Observabilidade centralizada | Visibilidade ampliada com Datadog, Graylog e Zabbix |
 
